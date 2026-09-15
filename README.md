@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-CS student at UNIMI, Milan, Italy.
+(profile picture is NOT me! Stop asking!!!)
 
 <!--
 **mattyonweb/mattyonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
